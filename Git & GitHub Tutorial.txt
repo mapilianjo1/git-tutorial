@@ -1,0 +1,28 @@
+Git Tutorial by bossRodTV
+
+
+( Part 1 )
+Para mag import ng file sa github using VsCode ( ito yong una mong gagawin pag bago ka gumamit ng repository sa github ) 
+
+1. git init
+2. git add . ( add all changes or new file)
+3. git commit -m ( Dito is yong lalagay mong description sa binago mong file or add sa vs code )
+4. git remote add origin ( kasunod ng origin is yong link ng repository mo. )
+5. git push ( to insert the file repository )
+6. git status ( to check if may nabago sa vs code )
+
+( Part 2 )
+Para mag import ng file sa github using VsCode ( ito naman yong steps na mag aadd ka nalang ng file sa github )
+
+1. git add . ( add all changes or new file )
+2. git commit -m ( "Dito is yong lalagay mong description sa binago mong file or add sa vs code" pwede rin naman git commit )
+3. git push ( to insert the file repository )
+
+( Part 3 )
+Mga additional git syntax
+
+1. git remote remove origin ( To remove git file path then after is bumalik ka sa step 4 ng part 1)
+2. git pull ( Para kunin mo yong inadd na file sa repository mo mismo )
+3. git checkpoint [create branch name] ( Dito gagawa ka ng branch na sarili para magkaroon ka ng solo working page )
+4. git clone [ link ng repository mo ] ( ito yong mag eexport ka ng file sa iba )
+
